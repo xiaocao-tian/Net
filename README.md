@@ -2,8 +2,8 @@
 Training MNIST with pytorch
 
 # Requirements
-python
-pytorch
+python3.8.10\
+pytorch1.9.1+cu102
 
 # dataset
 MNIST dataset
