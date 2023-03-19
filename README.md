@@ -1,8 +1,9 @@
 # pytorch-MNIST
-Training MNIST with pytorch
+pytorch implements a variety of CNNs
+MNIST dataset as an example
 
 # Requirements
-python3.8.10\
+python3.8.10
 pytorch1.9.1+cu102
 
 # dataset
